@@ -16,4 +16,5 @@ And then there's the most powerful one, a [multithreaded node.js version](https:
 Here is how you would run it on Windows:
 - c:\utils\john179\run\john.exe -wordlist=data\1to10.txt --stdout | node wallet-node-stdin-multithread-crack.js
 
-The sample wallet used above is [1CkjhyBqfGVMME82nMrQYgtW7UAmibvvUW](https://blockchain.info/address/1CkjhyBqfGVMME82nMrQYgtW7UAmibvvUW) , the json encrypted backup is secured with the key 1234567890
+The sample wallet used above is [1CkjhyBqfGVMME82nMrQYgtW7UAmibvvUW](https://blockchain.info/address/1CkjhyBqfGVMME82nMrQYgtW7UAmibvvUW) , the json encrypted backup is secured with the key abz1234567890Z!
+
